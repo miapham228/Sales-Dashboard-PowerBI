@@ -19,4 +19,4 @@ This dashboard analyze the revenue across regions, focusing on trends and forcas
 ## Screen shot
 
 ## Contact
-Feel free to reach out on www.linkedin.com/in/miapham22
+Feel free to reach out on www.linkedin.com/in/miapham18
