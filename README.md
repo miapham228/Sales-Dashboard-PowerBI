@@ -15,7 +15,6 @@ Sale Dashboard for checking KPIs for each REP. This dashboard analyze the revenu
 - `Sale transaction historical data.xlsx`
 - `dim_tam.xlsx`
 - `dim_tambudget.xlsx`
-## Screen shot
 
 ## Contact
 Feel free to reach out on www.linkedin.com/in/miapham18
