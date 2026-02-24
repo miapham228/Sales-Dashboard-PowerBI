@@ -10,7 +10,7 @@ Sale Dashboard for checking KPIs for each REP. This dashboard analyze the revenu
 - Trend and forecast identification
 - Interactive filters (e.g., REPs, year & month)
 ##  Files
-- `DXM Sale Dashboard.pbix` – The Power BI project file
+- `Sale Dashboard_py.pbix` – The Power BI project file
 - `Sale transaction current month data.xlsx`
 - `Sale transaction historical data.xlsx`
 - `dim_tam.xlsx`
