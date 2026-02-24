@@ -1,5 +1,5 @@
 # Sale_dashboard
-Sale Dashboard for checking KPIs. This dashboard analyze the revenue across regions, focusing on trends and forcast revenue.
+Sale Dashboard for checking KPIs for each REP. This dashboard analyze the revenue across regions, focusing on trends and forcast revenue.
 ## Tools used
 - Power BI
 - Excel
