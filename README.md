@@ -18,3 +18,7 @@ Sale Dashboard for checking KPIs for each REP. This dashboard analyze the revenu
 
 ## Contact
 Feel free to reach out on www.linkedin.com/in/miapham18
+
+Copyright © 2026. All rights reserved.
+This repository is for portfolio demonstration only.
+No reuse, redistribution, or modification is permitted without permission.
